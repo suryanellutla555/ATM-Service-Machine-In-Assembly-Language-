@@ -41,6 +41,6 @@ The ATM will service one customer at a time. A customer will be required to ente
 
 
 ## Overview of the project
-<img width="843" height="406" alt="img" src="https://github.com/user-attachments/assets/81f26c72-54d9-4365-8eb3-b3cbd48c6703" />
 
+![](img.png)
 
